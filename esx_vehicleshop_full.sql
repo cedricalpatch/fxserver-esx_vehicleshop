@@ -1,4 +1,4 @@
-INSERT INTO `addon_account` VALUES (name, label, shared)
+INSERT INTO `addon_account` (name, label, shared) VALUES
   ('society_cardealer','Concessionnaire',1)
 ;
 
